@@ -1,0 +1,38 @@
+{
+  "casa": [
+    {
+      "nomeCasa": "Casa da Mãe Joana",
+      "enderecoCasa": "Rua das Couves, 123",
+      "qtddPessoas": "2000",
+      "id": 1
+    }
+  ],
+  "cadastro": [
+    {
+      "email": "email@email.com.br",
+      "cpf": "123.456.789-00",
+      "nome": "Nome e Sobrenome",
+      "dataNasc": "2010-01-01",
+      "telefone": "(14) 2222-2222",
+      "id": 1
+    },
+    {
+      "email": "email@email.com.br",
+      "cpf": "123.456.789-00",
+      "nome": "Nome e Sobrenome",
+      "dataNasc": "2010-01-01",
+      "telefone": "(14) 2222-2222",
+      "id": 2
+    },
+    {
+      "email": "",
+      "cpf": "",
+      "nome": "",
+      "dataNasc": "",
+      "telefone": "",
+      "id": 3
+    }
+  ],
+  "compra": [],
+  "evento": []
+}
